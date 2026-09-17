@@ -1,0 +1,6 @@
+{
+  "name": "tech-demos",
+  "private": true,
+  "description": "Sticky monorepo for weekday X-bookmark tech demos",
+  "packageManager": "bun@1.2.0"
+}
