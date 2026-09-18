@@ -1,14 +1,15 @@
 {
-  "proposed": [
+  "proposed": [],
+  "built": [],
+  "skipped": [
     {
       "id": "2099482348010328185",
       "title": "cobe (shuding/cobe) — tiny WebGL globe",
       "url": "https://x.com/mattyp/status/2099482348010328185",
       "date": "2026-09-18",
       "tech": "cobe",
-      "slug": "cobe-globe"
+      "slug": "cobe-globe",
+      "skippedAt": "2026-09-18"
     }
-  ],
-  "built": [],
-  "skipped": []
+  ]
 }
